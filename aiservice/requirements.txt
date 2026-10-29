@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+sqlalchemy
+psycopg2-binary
+openai
+kafka-python
+mlxtend
+cachetools
+beautifulsoup4
+requests
+pydantic
+python-dotenv
