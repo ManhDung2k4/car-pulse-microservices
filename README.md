@@ -200,4 +200,4 @@ Swagger UI của Auth Service và Car Service thường có tại:
 
 - **Môn học:** Service-Oriented Architecture (SOA)
 - **Nhóm:** Nhóm 11 — Lớp SOA1
-- **Repository:** (https://github.com/ManhDung2k4/car-pulse-microservices)
+- **Repository:** https://github.com/ManhDung2k4/car-pulse-microservices
